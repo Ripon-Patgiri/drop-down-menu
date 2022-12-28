@@ -22,3 +22,7 @@ nav li {
 .dropdown a {
     display: block;
 }
+
+.visible {
+    display: block;
+}
